@@ -27,7 +27,8 @@ I'm passionate FrontEnd developer from China
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<br />
+<a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/ide-jetbrains-orange" alt="ide"></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/editor-vscode-blue" alt="editor"></a> <a href="https://typora.io/"><img src="https://img.shields.io/badge/editor-typora-white" alt="editor"></a>
 <br />
 <br />
 

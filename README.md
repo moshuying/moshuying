@@ -1,4 +1,6 @@
-<a href="https://app.daily.dev/moshuying"><img align="right" src="https://api.daily.dev/devcards/d6d95450ac984eb3a2a63e2b2e5fd613.png?r=u00" width="400" alt="moshuying's Dev Card"/></a>
+<a href="https://app.daily.dev/moshuying">
+  <img align="right" src="https://api.daily.dev/devcards/d6d95450ac984eb3a2a63e2b2e5fd613.png?r=jsn" width="400" alt="moshuying's Dev Card"/>
+</a>
 ### Hi there 👋
 
 I'm passionate FrontEnd developer from China

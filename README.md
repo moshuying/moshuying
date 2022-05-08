@@ -15,7 +15,7 @@ I'm passionate FrontEnd developer from China
 
 - 📺 View my personal website [msy.plus](https://www.msy.plus)
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/moshuying/moshuying/issues)
 
 <br />
 <br />

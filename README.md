@@ -11,7 +11,7 @@ I'm passionate FrontEnd developer from China
 
 **About me**
 
-- 💼 WebGL FrontEnd Engineer
+- 💼 Working in Cocos
 
 - 📺 View my personal website [msy.plus](https://www.msy.plus)
 

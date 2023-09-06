@@ -6,11 +6,11 @@
 
 2022 - today for cocos
 
-[working for cocos](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Amoshuying+)
+[working for cocos](https://github.com/cocos/cocos-engine/pulls?q=is%3Apr+author%3Amoshuying+)
 
 2020 - today for three.js
 
-[working for three.js](https://github.com/cocos/cocos-engine/pulls?q=is%3Apr+author%3Amoshuying+)
+[working for three.js](https://github.com/mrdoob/three.js/pulls?q=is%3Apr+author%3Amoshuying+)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=moshuying&column=8)](https://github.com/moshuying)
 

@@ -6,7 +6,7 @@
 
 2022 - today for cocos
 
-[working for cocos](https://github.com/cocos/cocos-engine/pulls?q=is%3Apr+author%3Amoshuying+)
+[working for cocos](https://github.com/pulls?q=is%3Apr+author%3Amoshuying+archived%3Afalse+is%3Amerged+owner%3Acocos)
 
 2020 - today for three.js
 

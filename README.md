@@ -21,10 +21,10 @@
 ## GitHub stats
 
 <p align="center">
-<img width="60%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
+<img width="60%" src="https://github-profile-trophy.vercel.app/?username=moshuying&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
 <p align="center">
-    <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
-    <img width="48%" height="160" src="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
+    <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=moshuying&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
+    <img width="48%" height="160" src="https://streak-stats.demolab.com?user=moshuying&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
 </p>

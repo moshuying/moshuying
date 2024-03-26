@@ -18,7 +18,13 @@
 
 [working for mdn](https://github.com/pulls?q=is%3Apr+author%3Amoshuying+archived%3Afalse+is%3Amerged+owner%3Amdn+)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=moshuying&column=8)](https://github.com/moshuying)
+## GitHub stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=moshuying&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=moshuying&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<p align="center">
+<img width="60%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
+</p>
+
+<p align="center">
+    <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
+    <img width="48%" height="160" src="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
+</p>

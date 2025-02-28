@@ -20,9 +20,20 @@
 
 ## GitHub stats
 
-<p align="center">
+
 <img width="60%" src="https://github-profile-trophy.vercel.app/?username=moshuying&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
-</p>
+
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=37231523" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=37231523&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @moshuying" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=37231523&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 <p align="center">
     <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=moshuying&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
